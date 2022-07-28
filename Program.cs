@@ -19,9 +19,7 @@ namespace Examen
 
             Console.WriteLine();
 
-            //var Helado2 = new HeladoFresa();
-            //Console.WriteLine(Helado2.CalculoTotalPrecio());
-            //Console.WriteLine();
+         
         }
     }
 }
