@@ -11,18 +11,3 @@ public class HeladoChicle : HeladoBase
     }
 }
 }
-
-
-/*using System;
-
-namespace Examen {
-public class HeladoChicle : HeladoBase
-{
-    public override double CalculoTotalPrecio()
-    {
-        Console.Write("Helado Chicle: ");
-        return Helados.Sum(x => x.Costo);
-    }
-}
-}
-*/
