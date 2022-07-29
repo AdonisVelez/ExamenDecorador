@@ -6,8 +6,8 @@ public class HeladoFresa : HeladoBase
     public override double CalculoTotalPrecio()
     {
         Console.Write("Total del Helado: ");
-        var H3 = 1;
-        return H3;
+        var valor = 1.50;
+        return valor;
     }
 }
 }
