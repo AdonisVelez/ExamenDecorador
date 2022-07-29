@@ -9,7 +9,6 @@ namespace Examen
 
             var Helado1 = new HeladoChocolate();
             Console.WriteLine("$"+Helado1.CalculoTotalPrecio());
-            //Console.WriteLine();
 
             var Adereso1 = new Topping1(Helado1);
             Console.WriteLine("$"+Adereso1.CalculoTotalPrecio());
